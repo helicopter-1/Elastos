@@ -1,5 +1,5 @@
 # Gist
-Elastos is an open source project made for the community. We have reserved 16.5M ELA in order to reward the Elastos community members who contribute to the commmunity. EBP - Elastos Bounty Program is a web app platform for community members to take tasks, make contributions and get ELA as reward.
+Elastos is an open source project made for the community. We have reserved 16.5M ELA in order to reward the Elastos community members who contribute to the community. EBP - Elastos Bounty Program is a web app platform for community members to take tasks, make contributions and get ELA as reward.
 
 The whole EBP contains several subsidiary programs
 - Elastos Developer Bounty Program - EDBP. Developers contribute code to Elastos
