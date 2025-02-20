@@ -3,7 +3,7 @@
 
 The Council consists of **7** people elected by the community on an annual basis.
 
-**Their main responsibilties are:**
+**Their main responsibilities are:**
 
 1. Each safeguard a private key associated with 1 of the 12 Council non-rotating active DPoS nodes.
 
