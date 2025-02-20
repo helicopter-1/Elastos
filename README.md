@@ -80,7 +80,7 @@ This is the repo that contains developer guides to get started. This is a work i
 Elastos SPV is a SDK of SPV (Simplified Payment Verification) implementation of the Elastos digital currency. The Elastos SPV SDK is a set of encryption algorithm, peer to peer network and SPV related implementation like bloom filter, merkleblock and util methods. As an example, this project includes an spv wallet implementation located in spvwallet folder. It will help you understand how to use this SDK and build your own apps. After installing, you can do some things locally like creating your own wallet, seeing account balance and a wide variety of other options.
 
 #### [Elastos.NET](https://github.com/elastos/Elastos.NET)
-Elasots.NET is a portal repository to introduce Elastos serivce infrastructures related with Network. As so far as writing this document, this repostiory includes the introductions of Elastos Carrier and Elastos Hive.
+Elasots.NET is a portal repository to introduce Elastos service infrastructures related with Network. As so far as writing this document, this repository includes the introductions of Elastos Carrier and Elastos Hive.
 
 #### [Elastos.ORG.Wallet.Service](https://github.com/elastos/Elastos.ORG.Wallet.Service)
 This repo provide simple HTTP Restful API for developers to interact with elastos blockchain. You may need to construct your own local node to use some of these API.
