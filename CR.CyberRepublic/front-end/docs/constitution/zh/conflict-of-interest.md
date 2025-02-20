@@ -60,7 +60,7 @@ No Cyber Republic Council Member shall allow himself or herself to be influenced
 
 No Cyber Republic Council Member or member of their family shall accept any gift or other advantage, that might reasonably be seen to have been given to influence the Cyber Republic Council Member in the exercise of Cyber Republic Council power, duty or function.
 
-#### 11. Duty to Recuse
+#### 11. Duty to Recurse
 
 A Cyber Republic Council Member shall recuse himself or herself from any discussion, decision, debate or vote on any matter in respect of which he or she would be in a conflict of interest.
 
