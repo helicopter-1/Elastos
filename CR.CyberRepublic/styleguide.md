@@ -11,7 +11,7 @@ Everything is in eslint/tslint
 
 ##### CSS
 
-- `ord_` prefix for React class "overrideable" functions
+- `ord_` prefix for React class "overridable" functions
 - `c_` for component top level CSS class
 - `d_` for sub-components
 
